@@ -1,2 +1,2 @@
 # FoodDeliverySite
-It's a basic food delivery site using HTML and CSS.
+It's a responsive food delivery site using HTML and CSS.
